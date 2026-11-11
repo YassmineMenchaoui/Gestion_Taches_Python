@@ -29,3 +29,8 @@ Ce projet est une application Python simple qui permet de gérer les tâches quo
 - Git
 - GitHub
 - Visual Studio Code
+## Utilisation
+- Choisir 1 pour ajouter une tâche.
+- Choisir 2 pour afficher les tâches.
+- Choisir 3 pour rechercher une tâche.
+- Choisir 0 pour quitter l'application.
