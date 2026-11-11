@@ -34,3 +34,5 @@ Ce projet est une application Python simple qui permet de gérer les tâches quo
 - Choisir 2 pour afficher les tâches.
 - Choisir 3 pour rechercher une tâche.
 - Choisir 0 pour quitter l'application.
+## Mise à jour du projet
+Amélioration de la documentation après le premier push sur GitHub.
